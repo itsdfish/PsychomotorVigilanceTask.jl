@@ -1,7 +1,7 @@
 name = "PsychomotorVigilanceTask"
 uuid = "3a23ab9a-e60c-4129-b1e4-17a645949bd3"
 authors = ["itsdfish and contributors"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 Cairo = "159f3aea-2a34-519c-b102-8c37f9878175"
